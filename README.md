@@ -142,7 +142,7 @@ Certain modules that contain a high complexity and a large number of functions (
  ## Installation/Usage
  1. Clone this repository:
 >  
-     git clone <repository-url>
+     git clone [<repository-url>](https://github.com/azntin/C-BlackJack-Dealer.git)
      cd <repository-directory>
  >
  2. Build the executable using CMake and Make
